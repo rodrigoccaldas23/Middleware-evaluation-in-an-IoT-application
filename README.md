@@ -1,6 +1,6 @@
 # Middleware-evaluation-in-an-IoT-application
 
-ABSTRACT
+ABSTRACT - 
 Internet of Things (IoT) applications are nowadays widely
 used both for domestic and industrial purposes. However
 they still represent a rather large implementation challenge.
